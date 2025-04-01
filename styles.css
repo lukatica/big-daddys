@@ -11,6 +11,11 @@
     background-color: orange!important;
 }
 
+.btn-danger{
+    background-color: orange!important;
+    border: orange!important;
+}
+
 .nav-link{
     font-size: 1.2rem;
 }
@@ -22,4 +27,22 @@
     height: 100vh;
     background-position: center;
     background-size: cover;
+}
+
+button:hover{
+    background-color: orange!important;
+    border-color: orange!important;
+}
+
+hr{
+    width: 200px;
+    height: 1px;
+}
+
+.card{
+    transition:0.5s;
+}
+
+.card:hover{
+    background-color: black!important;
 }
