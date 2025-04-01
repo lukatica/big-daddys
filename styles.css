@@ -1,0 +1,25 @@
+/*NAV SECTION*/
+.navbar-brand{
+    font-size: 2rem;
+}
+
+.text-danger{
+    color: orange!important;
+}
+
+.bg-danger{
+    background-color: orange!important;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+/*HERO SECTION*/
+
+.hero{
+    background: url(img/hero-background.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
